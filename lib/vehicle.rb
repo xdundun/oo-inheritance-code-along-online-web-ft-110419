@@ -14,4 +14,4 @@ class Vehicle
     "filling up!"
   end
 
-end
+end #end of class
